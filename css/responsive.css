@@ -96,6 +96,7 @@
     }
     #banner1 .carousel-indicators {
         bottom: -40px;
+        margin-right: 36%;
     }
     .text-bg span {
         font-size: 38px;
@@ -184,6 +185,7 @@
     }
     #banner1 .carousel-indicators {
         bottom: -40px;
+        margin-right: 36%;
     }
     .text-bg h1 {
         font-size: 47px;
