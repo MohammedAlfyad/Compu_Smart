@@ -460,6 +460,7 @@ ul.btn li:last-child {
 #banner1 .carousel-indicators {
      left: inherit;
      bottom: 40px;
+     margin-right: 20%;
 }
 
 #banner1 .carousel-indicators li {
